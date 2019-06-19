@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.420,D:\Documents\Learning\Практика 3 курс\Project1bu.dproj=D:\Documents\Learning\Практика 3 курс\delphi\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.220,D:\Documents\Learning\Практика 3 курс\delphi\Project1.dproj=D:\Documents\Learning\Практика 3 курс\Project1bu.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.261,D:\Documents\Learning\Практика 3 курс\delphi\Project1.dproj=D:\Documents\Learning\Практика 3 курс\delphi\Project1.dproj</Transaction>
+    <Transaction>2019.06.19 13:53:14.385,D:\Documents\Learning\Практика 3 курс\delphi\jsonwrapper\JW.dproj=D:\Documents\Learning\Практика 3 курс\delphi\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
